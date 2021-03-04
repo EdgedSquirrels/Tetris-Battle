@@ -1,0 +1,4 @@
+Time Bar: yellow: R229 G150 B26
+	    gray: R80 G50 B14
+Bomb Bar:    Red: R197 G32 B21
+          Orange: R214 G135 B30
