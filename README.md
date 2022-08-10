@@ -1,5 +1,5 @@
 # Tetris Battle fan-made version
-![](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++)
+![](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++) ![](https://img.shields.io/github/license/EdgedSquirrels/Tetris-Battle)
 ## 1. Clone all the files to your storage
 Just click the green button labeled **Code**, click Download ZIP, and unzip it.
 
